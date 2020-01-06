@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://QRYT.github.io",
+    "email": "192938976@qq.com",
+    "platform": "github",
+    "repository": "QRYT.github.io",
+    "token": "80d0a76b32b858ce293d849617b44915420e02ce",
+    "username": "qirenyoutian"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "783c14723b8cd29453fc",
+      "clientSecret": "51f4a21152e2bf0fd9990196694bf3b7cf45ccde",
+      "owner": "qirenyoutian",
+      "repository": "QRYT.github.io"
+    },
+    "showComment": true
+  }
+}
